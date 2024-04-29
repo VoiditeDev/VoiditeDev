@@ -1,4 +1,3 @@
-[<img src="https://raw.githubusercontent.com/gamma-sigma-beep/gamma-sigma-beep/main/assets/youtube.svg" alt="SUBSCRIBE ON YOUTUBE"/>](https://www.youtube.com/channel/UCXrE0T8nzCCIb2SkbtAwUuQ) [<img src="https://raw.githubusercontent.com/gamma-sigma-beep/gamma-sigma-beep/main/assets/roblox_join.svg" alt="JOIN GROUP ON ROBLOX"/>](https://www.roblox.com/groups/13934532/about)
+[<img src="https://raw.githubusercontent.com/gamma-sigma-beep/gamma-sigma-beep/main/assets/youtube.svg" alt="SUBSCRIBE ON YOUTUBE"/>](https://www.youtube.com/channel/UCXrE0T8nzCCIb2SkbtAwUuQ) [<img src="https://raw.githubusercontent.com/gamma-sigma-beep/gamma-sigma-beep/main/assets/roblox_join.svg" alt="JOIN GROUP ON ROBLOX"/>](https://www.roblox.com/groups/13934532/about) [<img src="https://gist.github.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/guilded.svg" alt="JOIN US" height="32" />](https://www.guilded.gg/i/k8qNGoGp)
 
-hello, I'm VSCPlays, and I am currently working on City Walk on Roblox
-
+I am Voidite [also known as VSCPlays or simply VSC], I sometimes go onto GitHub to file an Issue or to make an pull request, I am working on a game right now, and I am a decent builder [modeller] and scripter, I am from the United Arab Emirates 🇦🇪. Be sure to check out my portfolio on the meantime
